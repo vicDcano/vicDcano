@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicdcano&label=Profile%20views&color=0e75b6&style=flat" alt="vicdcano" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vicdcano" alt="vicdcano" /></a> </p>
+<p align = "left"> <a href = "https://[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)] ><img src = "https://ko-fi.com/O5O1J7QW8" alt ="vicdcano" /></a> </p>
 
 - 🔭 I’m currently working on **fizpip**
 
