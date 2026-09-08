@@ -11,11 +11,11 @@
 
 - 🤝 I’m looking for help with **fizpip**
 
-- 👨‍💻 All of my projects are available at [victordcano.com](victordcano.com/project.html)
+- 👨‍💻 All of my projects are available at [victordcano.com](https://victordcano.com/project.html)
 
 - 💬 Ask me about **virtual reality on the Unity game engine**
 
-- 📫 How to reach me **fill out the form at  [victordcano.com](victordcano.com)**
+- 📫 How to reach me **fill out the form at  [victordcano.com](https://victordcano.com)**
 
 - ⚡ Fun fact **I am a huge gamer and a movie buff.**
 
