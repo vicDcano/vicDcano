@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **fizpip**
 
-- 👨‍💻 All of my projects are available at [victordcano.com](victordcano.com)
+- 👨‍💻 All of my projects are available at [victordcano.com](victordcano.com/project.html)
 
 - 💬 Ask me about **virtual reality on the Unity game engine**
 
